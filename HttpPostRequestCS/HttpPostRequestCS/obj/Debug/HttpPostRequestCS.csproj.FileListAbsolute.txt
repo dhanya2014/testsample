@@ -1,0 +1,5 @@
+D:\HttpPostRequestCS\HttpPostRequestCS\bin\Debug\HttpPostRequestCS.exe.config
+D:\HttpPostRequestCS\HttpPostRequestCS\bin\Debug\HttpPostRequestCS.exe
+D:\HttpPostRequestCS\HttpPostRequestCS\bin\Debug\HttpPostRequestCS.pdb
+D:\HttpPostRequestCS\HttpPostRequestCS\obj\Debug\HttpPostRequestCS.exe
+D:\HttpPostRequestCS\HttpPostRequestCS\obj\Debug\HttpPostRequestCS.pdb
